@@ -8,3 +8,5 @@ O colectie de date deschise (open data) cu lucruri de interes public din orasul 
 
 ## EN:
 Colections of open data related to city of Arad from Romania
+
+Proiectul a fost initiat in cadrul sectiei Automatizari de la Facultatea de Inginerie, Universitatea Aurel Vlaicu Arad.
